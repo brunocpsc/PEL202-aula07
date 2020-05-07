@@ -3,6 +3,7 @@
 LMS,LDA,PCA e SVM
 """
 
+#utilizad SciKitLearn para os modelos
 from sklearn.datasets import load_iris
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
