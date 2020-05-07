@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 23 23:00:12 2019
 LMS,LDA,PCA e SVM
 """
 
